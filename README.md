@@ -130,6 +130,6 @@ python pipeline.py
 Feel free to connect or reach out if you have questions about the project!
 
 - GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/youssef-gendia-562994349))
+- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/youssef-gendia-562994349)
 
 ---
