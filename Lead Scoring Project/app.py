@@ -3,7 +3,7 @@
 LEAD SCORING STREAMLIT APP
 ================================================================================
 A complete Streamlit application for lead scoring data analysis and ML modeling
-Run with: streamlit run streamlit_lead_scoring_app.py
+Run with: streamlit run app.py
 ================================================================================
 """
 
