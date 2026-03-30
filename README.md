@@ -129,7 +129,7 @@ python pipeline.py
 
 Feel free to connect or reach out if you have questions about the project!
 
-- GitHub: [your-username](https://github.com/your-username)
+- Email: youssefgendia4@gmail.com
 - LinkedIn: www.linkedin.com/in/
 
 
